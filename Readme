@@ -1,3 +1,8 @@
-This repository contains the files related to SafeRoute framework.
+This repository contains the video links related to the SafeRoute framework.
 
-Videos
+Videos:
+
+1. CMU AV navigating a Mutually-Exclusive Lane Blockage (MELB) in CoSim -> https://bit.ly/CoSimMELB
+2. CMU AV making a detour at a real-world test track -> https://bit.ly/RealWorldDetour
+3. CMU AV making a dynamic lane change at a real-world test-track -> https://bit.ly/RealWorldDynamicLaneChange
+
